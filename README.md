@@ -2,7 +2,8 @@
 Little demo on how to use ChatGPT on your own data using LangChain.
 
 ## Use
-create a .env file in the root folder with your openai api key as API_KEY=<yourkey>
+Create a .env file in the root folder with your openai api key as API_KEY=yourkeyhere
+
 Just copy all your data (.txt, .pdf) into the "data" folder and run the "langchain_chatgpt_folder.py" in the command line. The script will create an index and save it the folder "persist" for later use it, so it won't have to be created each time. Use the prompt to chat with your data.
 
 ## Background
