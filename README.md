@@ -8,3 +8,5 @@ Just copy all your data (.txt, .pdf) into the "data" folder and run the "langcha
 
 ## Background
 The script will create an index and save it in "persist". By default if the data does not change the saved index will be used to save traffic and transaction costs. The changes are recognized by a hash that is calculated on the data folder content (file names and size)
+
+Tutorial Video: https://www.youtube.com/watch?v=c6UExc6hdN8
